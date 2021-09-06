@@ -4,7 +4,7 @@
   height: 500px;
   padding: 20px;
   /* margin-left: 10px; */
-  /* margin-left: 5px; */
+  margin-left: 1px;
   transition: transform 100ms ease-in;
 }
 .videoCard:hover {
