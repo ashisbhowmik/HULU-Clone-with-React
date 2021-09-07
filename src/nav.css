@@ -13,7 +13,7 @@
   display: none;
 }
 
-/* hide the scrollbar for IE, Edge, and firefox */
+/* hide the scrollbar  Edge, and firefox */
 .nav {
   -ms-overflow-style: none;
   scrollbar-width: none;
